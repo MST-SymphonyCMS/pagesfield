@@ -8,7 +8,7 @@ Build Date: 23rd December 2008
 Requirements: Symphony Beta revision 5 or greater.
 
 
-##INSTALLATION
+## INSTALLATION
 
 1. Upload the 'pagesfield' folder in this archive to your Symphony 'extensions' folder.
 
@@ -18,7 +18,7 @@ Requirements: Symphony Beta revision 5 or greater.
 
 
 
-[CHANGE LOG]
+## CHANGE LOG
 
 1.2 - Publish select box will use page ID's instead of handles. This solves 
 	  problem where 2 pages share the same handle, but only one shows up due
