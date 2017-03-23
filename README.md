@@ -1,6 +1,5 @@
 
 # Page Select Box Field
-------------------------------------
 
 * Version: 1.2
 * Author: Symphony Team (team@symphony21.com)
