@@ -1,5 +1,5 @@
 
-Page Select Box Field
+# Page Select Box Field
 ------------------------------------
 
 Version: 1.2
@@ -8,13 +8,13 @@ Build Date: 23rd December 2008
 Requirements: Symphony Beta revision 5 or greater.
 
 
-[INSTALLATION]
+##INSTALLATION
 
 1. Upload the 'pagesfield' folder in this archive to your Symphony 'extensions' folder.
 
-2. Enable it by selecting the "Field: Page Select Box", choose Enable from the with-selected menu, then click Apply.
+1. Enable it by selecting the "Field: Page Select Box", choose Enable from the with-selected menu, then click Apply.
 
-3. You can now add the "Page Select Box" field to your sections.
+1. You can now add the "Page Select Box" field to your sections.
 
 
 
