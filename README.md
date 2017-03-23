@@ -17,11 +17,10 @@ Requirements: Symphony Beta revision 5 or greater.
 1. You can now add the "Page Select Box" field to your sections.
 
 
-
 ## CHANGE LOG
 
-1.2 - Publish select box will use page ID's instead of handles. This solves 
+* 1.2 - Publish select box will use page ID's instead of handles. This solves 
 	  problem where 2 pages share the same handle, but only one shows up due
 	  to the clash.
 	
-1.1 - Fixed sorting
+* 1.1 - Fixed sorting
